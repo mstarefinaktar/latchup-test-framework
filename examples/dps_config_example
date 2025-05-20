@@ -1,0 +1,2 @@
+#pin	samples	measureWait	vForce	measRange	ovlV	ovlI
+PCIE_VP_0	1024	0.001	0.825	5.00E-09	1.2375	1.0
