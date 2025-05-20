@@ -1,0 +1,6 @@
+# Pass/Fail Judgement
+
+## Criteria
+
+- If IDD_pre < 25mA: Fail if IDD_post > IDD_pre + 10mA
+- If IDD_pre ≥ 25mA: Fail if IDD_post > 1.4 × IDD_pre
