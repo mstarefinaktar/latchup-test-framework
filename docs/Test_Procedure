@@ -1,0 +1,14 @@
+# Latch-Up Test Procedure
+
+This procedure automates latch-up validation using two pattern states: `inputs_low` and `inputs_high`.
+
+## Steps
+
+1. Run initialization pattern
+2. Measure IDD/VDD before pulsing
+3. Inject current pulse (positive/negative)
+4. Measure IDD/VDD again
+5. Apply judgement logic
+6. Log results
+7. Repeat for all pins and both patterns
+
