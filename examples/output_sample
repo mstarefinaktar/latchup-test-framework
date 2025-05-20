@@ -1,0 +1,9 @@
+{
+  "BOARD_ID[0]": {
+    "pattern": "inputs_low",
+    "pulse_current": 0.1,
+    "idd_pre": 0.005,
+    "idd_post": 0.035,
+    "result": "FAIL"
+  }
+}
