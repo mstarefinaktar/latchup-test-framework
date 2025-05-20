@@ -1,0 +1,2 @@
+#Test_pin	Pulse_Supply	posI	posClamp	negI	negClamp	vil	vih	Route_Pin
+BOARD_ID[0]	PULSE1	0.1	2.8	-0.1	-1.5	0.00	1.60	GROUP1_IN
