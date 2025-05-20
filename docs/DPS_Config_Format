@@ -1,0 +1,11 @@
+# DPS Config File Format
+
+Each line is tab-separated and includes:
+
+- `pin`
+- `samples`
+- `measureWait`
+- `vForce`
+- `measRange`
+- `ovlV`
+- `ovlI`
