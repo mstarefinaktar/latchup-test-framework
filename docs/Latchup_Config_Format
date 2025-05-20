@@ -1,0 +1,13 @@
+# Latchup Config File Format
+
+Each line is tab-separated and includes:
+
+- `Test_pin`
+- `Pulse_Supply`
+- `posI`
+- `posClamp`
+- `negI`
+- `negClamp`
+- `vil`
+- `vih`
+- `Route_Pin`
